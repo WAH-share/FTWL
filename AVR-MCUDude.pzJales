@@ -1,0 +1,34 @@
+{
+  "Break_Author": "------------------------------------------",
+  "Product_Author": {
+    "SwVersion": "beta v0.90 - 0125",
+    "Location": "....\\",
+    "BoardName": "AVR-MCUDude",
+    "WebSite": "https://github.com/WAH-share/FTWL",
+    "WebText": "Goto: Github share FTWL",
+    "Author": "by: TooPayZ",
+    "Title": "Arduino, AVR, & MCU-Dude"
+  },
+  "Product_List": {
+    "ImageList": [
+      "AVR -MCU Dude  (1).png",
+      "AVR -MCU Dude  (2).png"
+    ],
+    "Image_avr_-mcu_dude__(1)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\AVR & MCU-Dude",
+      "zoom": false,
+      "name": "AVR -MCU Dude  (1).png",
+      "title": "AVR -MCU Dude  (1)",
+      "remark": ""
+    },
+    "Image_avr_-mcu_dude__(2)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\AVR & MCU-Dude",
+      "zoom": false,
+      "name": "AVR -MCU Dude  (2).png",
+      "title": "AVR -MCU Dude  (2)",
+      "remark": ""
+    }
+  }
+}

@@ -1,0 +1,843 @@
+{
+	"Break_Author": "------------------------------------------",
+	"Product_Author": {
+		"SwVersion": "beta v0.90 - 0125",
+		"Location": "....\\",
+		"BoardName": "M128Boardv1.0",
+		"WebSite": "https://github.com/WAH-share/FTWL",
+		"WebText": "Go-to: Github share FTWL",
+		"Author": "by: TooPayZ",
+		"Title": "M128 Learning Board v1.0"
+	},
+	"Product_List": {
+		"ImageList": [
+			"M128 (1).png",
+			"M128 (2).png",
+			"M128 (3).png",
+			"M128 (4).png",
+			"M128 (5).png"
+		],
+		"Image_m128_(1)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\M128-Learning Board",
+			"zoom": false,
+			"name": "M128 (1).png",
+			"title": "M128 (1)",
+			"remark": "A simple and compact trainer board using the main core ATMega128 8-bit AVR microcontroller,\nwith a 16x2 ALCD display, push buttons, relay, 4x4 keypad matrix, joystick, LDR sensor, LM35 sensor, and more.\nGain more learning experience and Enjoy it.\n"
+		},
+		"Image_m128_(2)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\M128-Learning Board",
+			"zoom": false,
+			"name": "M128 (2).png",
+			"title": "M128 (2)",
+			"remark": "A simple and compact trainer board using the main core ATMega128 8-bit AVR microcontroller,\nwith a 16x2 ALCD display, push buttons, relay, 4x4 keypad matrix, joystick, LDR sensor, LM35 sensor, and more.\nGain more learning experience and Enjoy it.\n"
+		},
+		"Image_m128_(3)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\M128-Learning Board",
+			"zoom": false,
+			"name": "M128 (3).png",
+			"title": "M128 (3)",
+			"remark": "PCB dimension and Component Layout.\n"
+		},
+		"Image_m128_(4)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\M128-Learning Board",
+			"zoom": false,
+			"name": "M128 (4).png",
+			"title": "M128 (4)",
+			"remark": "Move mouse cursor to Part or\nSelect from \"Part View\" then click on that Part.\n"
+		},
+		"Image_m128_(5)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\M128-Learning Board",
+			"zoom": false,
+			"name": "M128 (5).png",
+			"title": "M128 (5)",
+			"remark": "Move mouse cursor to Part or\nSelect from \"Part View\" then click on that Part.\n"
+		}
+	},
+	"Image_m128_(5)": {
+		"Break_List": "------------------------------------------",
+		"List_m128_(5)": [
+			"ATmega128",
+			"USB-CH340",
+			"DS1302",
+			"Id_04",
+			"Keypad-Port",
+			"StepDown-5V"
+		],
+		"m128_(5)_ATmega128": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 493,
+			"posY": 143,
+			"width": 113,
+			"height": 113,
+			"name": "ATmega128",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "ATmega128 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ATmega128 01.png"
+				},
+				{
+					"name": "ATmega128 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ATmega128 02.png"
+				},
+				{
+					"name": "ATmega128 03.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ATmega128 03.png"
+				},
+				{
+					"name": "ATmega128A-AU.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\ATmega128A-AU.pdf"
+				},
+				{
+					"name": "Microchip ATmega128",
+					"icon": "Web",
+					"location": "https://www.microchipdirect.com/product/ATMEGA128-16MUR"
+				}
+			]
+		},
+		"m128_(5)_USB-CH340": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 70,
+			"posY": 31,
+			"width": 115,
+			"height": 145,
+			"name": "USB-CH340",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "USB CH340 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\USB CH340 01.png"
+				},
+				{
+					"name": "USB CH340 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\USB CH340 02.png"
+				},
+				{
+					"name": "CH340 Vers 2C.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\CH340 Vers 2C.pdf"
+				},
+				{
+					"name": "CH340 Link",
+					"icon": "Web",
+					"location": "https://www.wch-ic.com/downloads/CH340DS1_PDF.html"
+				},
+				{
+					"name": "M128_UART.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_UART\\M128_UART.ino"
+				}
+			]
+		},
+		"m128_(5)_DS1302": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 346,
+			"posY": 172,
+			"width": 69,
+			"height": 83,
+			"name": "DS1302",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "DS1302 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\DS1302 01.png"
+				},
+				{
+					"name": "DS1302 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\DS1302 02.png"
+				},
+				{
+					"name": "DS1302.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\DS1302.pdf"
+				},
+				{
+					"name": "DS1302 - 2.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\DS1302 - 2.pdf"
+				},
+				{
+					"name": "DS3231.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\DS3231.pdf"
+				},
+				{
+					"name": "M128_RTC_DS1302.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_RTC_DS1302\\M128_RTC_DS1302.ino"
+				}
+			]
+		},
+		"m128_(5)_Id_04": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 255,
+			"posY": 190,
+			"width": 85,
+			"height": 85,
+			"name": "Id_04",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "Buzzer 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Buzzer 01.png"
+				},
+				{
+					"name": "Buzzer 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Buzzer 02.png"
+				},
+				{
+					"name": "Buzzer.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\Buzzer.pdf"
+				},
+				{
+					"name": "Buzzer Link",
+					"icon": "Web",
+					"location": "https://components101.com/misc/buzzer-pinout-working-datasheet"
+				},
+				{
+					"name": "M128_RELAY_BUZZER.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_RELAY_BUZZER\\M128_RELAY_BUZZER.ino"
+				}
+			]
+		},
+		"m128_(5)_Keypad-Port": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 471,
+			"posY": 278,
+			"width": 154,
+			"height": 37,
+			"name": "Keypad-Port",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "Keypad4x4 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Keypad4x4 01.png"
+				},
+				{
+					"name": "Keypad4x4 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Keypad4x4 02.png"
+				},
+				{
+					"name": "Keypad4x4 03.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Keypad4x4 03.png"
+				},
+				{
+					"name": "Keypad 4x4.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\Keypad 4x4.pdf"
+				}
+			]
+		},
+		"m128_(5)_StepDown-5V": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 628,
+			"posY": 60,
+			"width": 139,
+			"height": 108,
+			"name": "StepDown-5V",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "DC-StepDown 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\DC-StepDown 01.png"
+				},
+				{
+					"name": "DC-StepDown 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\DC-StepDown 02.png"
+				},
+				{
+					"name": "L78xx.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\L78xx.pdf"
+				},
+				{
+					"name": "LM78Lxx.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\LM78Lxx.pdf"
+				},
+				{
+					"name": "DC-to-DC Converters",
+					"icon": "Web",
+					"location": "https://how2electronics.com/dc-to-dc-converters-design-working-applications/"
+				},
+				{
+					"name": "What Is a DC/DC Converter?",
+					"icon": "Web",
+					"location": "https://www.nisshinbo-microdevices.co.jp/en/design-support/basic/09-dc-dc-converter.html"
+				}
+			]
+		}
+	},
+	"Image_m128_(4)": {
+		"Break_List": "------------------------------------------",
+		"List_m128_(4)": [
+			"MCU_RESET",
+			"ICSP",
+			"LED-8bit",
+			"Push-Button",
+			"Relay12V",
+			"ALCD-16x2",
+			"Potensio",
+			"LDR",
+			"LM35",
+			"JoystickXY",
+			"7Segmen-4Digit",
+			"SW_VCC-GND",
+			"LCD_BL-SW",
+			"CN_UART1",
+			"USB-Port"
+		],
+		"m128_(4)_MCU_RESET": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 301,
+			"posY": 29,
+			"width": 63,
+			"height": 42,
+			"name": "MCU_RESET",
+			"remark": "",
+			"linkInfo": []
+		},
+		"m128_(4)_ICSP": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 365,
+			"posY": 27,
+			"width": 106,
+			"height": 60,
+			"name": "ICSP",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "ICSP 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ICSP 01.png"
+				},
+				{
+					"name": "ICSP 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ICSP 02.png"
+				},
+				{
+					"name": "ICSP 03.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ICSP 03.png"
+				},
+				{
+					"name": "ICSP 04.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ICSP 04.png"
+				},
+				{
+					"name": "Arduino as ISP",
+					"icon": "Web",
+					"location": "https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP/"
+				}
+			]
+		},
+		"m128_(4)_LED-8bit": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 394,
+			"posY": 301,
+			"width": 199,
+			"height": 44,
+			"name": "LED-8bit",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "LED 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\LED 01.png"
+				},
+				{
+					"name": "LED 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\LED 02.png"
+				},
+				{
+					"name": "LED-DIP.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\LED-DIP.pdf"
+				},
+				{
+					"name": "LED-0805.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\LED-0805.pdf"
+				},
+				{
+					"name": "M128_LED_01.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LED_01\\M128_LED_01.ino"
+				},
+				{
+					"name": "M128_LED_02.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LED_02\\M128_LED_02.ino"
+				},
+				{
+					"name": "M128_LED_03.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LED_03\\M128_LED_03.ino"
+				},
+				{
+					"name": "M128_LED_04.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LED_04\\M128_LED_04.ino"
+				}
+			]
+		},
+		"m128_(4)_Push-Button": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 153,
+			"posY": 312,
+			"width": 240,
+			"height": 58,
+			"name": "Push-Button",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "PushButton 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\PushButton 01.png"
+				},
+				{
+					"name": "PushButton 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\PushButton 02.png"
+				},
+				{
+					"name": "PushButton 03.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\PushButton 03.png"
+				},
+				{
+					"name": "PB350 Series Pushbutton Switch.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\PB350 Series Pushbutton Switch.pdf"
+				},
+				{
+					"name": "Switch-Datasheet",
+					"icon": "Web",
+					"location": "https://www.mouser.co.id/c/ds/electromechanical/switches/pushbutton-switches/"
+				},
+				{
+					"name": "M128_BUTTON_01.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_BUTTON_01\\M128_BUTTON_01.ino"
+				}
+			]
+		},
+		"m128_(4)_Relay12V": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 595,
+			"posY": 160,
+			"width": 167,
+			"height": 99,
+			"name": "Relay12V",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "Relay 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Relay 01.png"
+				},
+				{
+					"name": "Relay 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Relay 02.png"
+				},
+				{
+					"name": "Relay 03.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Relay 03.png"
+				},
+				{
+					"name": "Relay 04.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Relay 04.png"
+				},
+				{
+					"name": "Relay 12v-relay.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\Relay 12v-relay.pdf"
+				},
+				{
+					"name": "Different Types of Relays",
+					"icon": "Web",
+					"location": "https://www.electricaltechnology.org/2018/12/what-is-relay-different-types-of-relays-its-operation-applications.html"
+				},
+				{
+					"name": "M128_RELAY_BUZZER.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_RELAY_BUZZER\\M128_RELAY_BUZZER.ino"
+				}
+			]
+		},
+		"m128_(4)_ALCD-16x2": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 166,
+			"posY": 111,
+			"width": 410,
+			"height": 149,
+			"name": "ALCD-16x2",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "ALCD 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ALCD 01.png"
+				},
+				{
+					"name": "ALCD 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ALCD 02.png"
+				},
+				{
+					"name": "ALCD 03.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ALCD 03.png"
+				},
+				{
+					"name": "ALCD Hitachi - HD44780.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\ALCD Hitachi - HD44780.pdf"
+				},
+				{
+					"name": "ILI9341 - TFT LCD Single Chip Driver.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\ILI9341 - TFT LCD Single Chip Driver.pdf"
+				},
+				{
+					"name": "ALCD with Arduino",
+					"icon": "Web",
+					"location": "https://docs.arduino.cc/learn/electronics/lcd-displays/"
+				},
+				{
+					"name": "M128_LCD_01.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LCD_01\\M128_LCD_01.ino"
+				},
+				{
+					"name": "M128_LCD_02.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LCD_02\\M128_LCD_02.ino"
+				}
+			]
+		},
+		"m128_(4)_Potensio": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 11,
+			"posY": 107,
+			"width": 86,
+			"height": 85,
+			"name": "Potensio",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "Pontesio 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Pontesio 01.png"
+				},
+				{
+					"name": "Potensio 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Potensio 02.png"
+				},
+				{
+					"name": "How a Potentiometer Works",
+					"icon": "Web",
+					"location": "https://randomnerdtutorials.com/electronics-basics-how-a-potentiometer-works/"
+				},
+				{
+					"name": "Potensiometer",
+					"icon": "Web",
+					"location": "https://makeabilitylab.github.io/physcomp/arduino/potentiometers.html"
+				},
+				{
+					"name": "M128_POTENSIO.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_POTENSIO\\M128_POTENSIO.ino"
+				}
+			]
+		},
+		"m128_(4)_LDR": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 513,
+			"posY": 27,
+			"width": 39,
+			"height": 61,
+			"name": "LDR",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "LDR 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\LDR 01.png"
+				},
+				{
+					"name": "LDR 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\LDR 02.png"
+				},
+				{
+					"name": "LDR Datasheet.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\LDR Datasheet.pdf"
+				},
+				{
+					"name": "BPV10NF - Photodiode.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\BPV10NF - Photodiode.pdf"
+				},
+				{
+					"name": "LDR or Photoresistor",
+					"icon": "Web",
+					"location": "https://components101.com/resistors/ldr-datasheet"
+				},
+				{
+					"name": "M128_LM35_LDR.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LM35_LDR\\M128_LM35_LDR.ino"
+				}
+			]
+		},
+		"m128_(4)_LM35": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 475,
+			"posY": 27,
+			"width": 38,
+			"height": 61,
+			"name": "LM35",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "LM35 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\LM35 01.png"
+				},
+				{
+					"name": "LM35 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\LM35 02.png"
+				},
+				{
+					"name": "LM35.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\LM35.pdf"
+				},
+				{
+					"name": "LM35 for Arduino",
+					"icon": "Web",
+					"location": "https://www.electronicwings.com/sensors-modules/lm35-temperature-sensor"
+				},
+				{
+					"name": "15 Best Arduino Compatible Temperature Sensors",
+					"icon": "Web",
+					"location": "https://electropeak.com/learn/15-arduino-compatible-temperature-sensors-for-your-project/"
+				},
+				{
+					"name": "M128_LM35_LDR.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_LM35_LDR\\M128_LM35_LDR.ino"
+				}
+			]
+		},
+		"m128_(4)_JoystickXY": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 0,
+			"posY": 193,
+			"width": 153,
+			"height": 173,
+			"name": "JoystickXY",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "JoyStick 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\JoyStick 01.png"
+				},
+				{
+					"name": "JoyStick 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\JoyStick 02.png"
+				},
+				{
+					"name": "2-Axis-Joystick.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\2-Axis-Joystick.pdf"
+				},
+				{
+					"name": "joystick_module.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\joystick_module.pdf"
+				},
+				{
+					"name": "Arduino JoyStick",
+					"icon": "Web",
+					"location": "https://arduinogetstarted.com/tutorials/arduino-joystick"
+				},
+				{
+					"name": "M128_JOYSTICK.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_JOYSTICK\\M128_JOYSTICK.ino"
+				}
+			]
+		},
+		"m128_(4)_7Segmen-4Digit": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 591,
+			"posY": 253,
+			"width": 174,
+			"height": 89,
+			"name": "7Segmen-4Digit",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "SevenSegmen 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\SevenSegmen 01.png"
+				},
+				{
+					"name": "SevenSegmen 02.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\SevenSegmen 02.png"
+				},
+				{
+					"name": "SevenSegmen 03.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\SevenSegmen 03.png"
+				},
+				{
+					"name": "0.56in 4-Digit+DP 7 Seg Display Module.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\0.56in 4-Digit+DP 7 Seg Display Module.pdf"
+				},
+				{
+					"name": "7Segmen Clock - 5641AS.pdf",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\7Segmen Clock - 5641AS.pdf"
+				},
+				{
+					"name": "4 Digit 7 Segment LED Display",
+					"icon": "Web",
+					"location": "https://projecthub.arduino.cc/SAnwandter1/programming-4-digit-7-segment-led-display-5c4617"
+				},
+				{
+					"name": "M128_7SEGMEN_01.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_7SEGMEN_01\\M128_7SEGMEN_01.ino"
+				}
+			]
+		},
+		"m128_(4)_SW_VCC-GND": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 626,
+			"posY": 341,
+			"width": 66,
+			"height": 38,
+			"name": "SW_VCC-GND",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "Switch LED and 7 Segmen.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\Switch LED and 7 Segmen.png"
+				}
+			]
+		},
+		"m128_(4)_LCD_BL-SW": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 147,
+			"posY": 24,
+			"width": 145,
+			"height": 56,
+			"name": "LCD_BL-SW",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "ALCD 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\ALCD 01.png"
+				}
+			]
+		},
+		"m128_(4)_CN_UART1": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 552,
+			"posY": 26,
+			"width": 83,
+			"height": 52,
+			"name": "CN_UART1",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "CN-UART.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\CN-UART.png"
+				},
+				{
+					"name": "M128_UART.ino",
+					"icon": "Ino",
+					"location": "....\\\\M128-Learning Board\\examples\\M128_UART\\M128_UART.ino"
+				}
+			]
+		},
+		"m128_(4)_USB-Port": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 683,
+			"posY": 65,
+			"width": 107,
+			"height": 95,
+			"name": "USB-Port",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "USB CH340 01.png",
+					"icon": "Img",
+					"location": "....\\\\M128-Learning Board\\image\\USB CH340 01.png"
+				}
+			]
+		}
+	}
+}
