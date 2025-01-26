@@ -1,34 +1,300 @@
 {
-  "Break_Author": "------------------------------------------",
-  "Product_Author": {
-    "SwVersion": "beta v0.90 - 0125",
-    "Location": "....\\",
-    "BoardName": "AVR-MCUDude",
-    "WebSite": "https://github.com/WAH-share/FTWL",
-    "WebText": "Goto: Github share FTWL",
-    "Author": "by: TooPayZ",
-    "Title": "Arduino, AVR, & MCU-Dude"
-  },
-  "Product_List": {
-    "ImageList": [
-      "AVR -MCU Dude  (1).png",
-      "AVR -MCU Dude  (2).png"
-    ],
-    "Image_avr_-mcu_dude__(1)": {
-      "separator": "------------------------------------------",
-      "location": "....\\\\AVR & MCU-Dude",
-      "zoom": false,
-      "name": "AVR -MCU Dude  (1).png",
-      "title": "AVR -MCU Dude  (1)",
-      "remark": ""
-    },
-    "Image_avr_-mcu_dude__(2)": {
-      "separator": "------------------------------------------",
-      "location": "....\\\\AVR & MCU-Dude",
-      "zoom": false,
-      "name": "AVR -MCU Dude  (2).png",
-      "title": "AVR -MCU Dude  (2)",
-      "remark": ""
-    }
-  }
+	"Break_Author": "------------------------------------------",
+	"Product_Author": {
+		"SwVersion": "beta v0.90 - 0125",
+		"Location": "....\\",
+		"BoardName": "AVR-MCUDude",
+		"WebSite": "https://github.com/WAH-share/FTWL",
+		"WebText": "Goto: Github share FTWL",
+		"Author": "by: TooPayZ",
+		"Title": "Arduino, AVR, & MCU-Dude"
+	},
+	"Product_List": {
+		"ImageList": [
+			"AVR-MCU Dude (1).png",
+			"AVR-MCU Dude (2).png",
+			"AVR-MCU Dude (3).png",
+			"AVR-MCU Dude (4).png",
+			"AVR-MCU Dude (5).png"
+		],
+		"Image_avr-mcu_dude_(1)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\AVR & MCU-Dude",
+			"zoom": false,
+			"name": "AVR-MCU Dude (1).png",
+			"title": "AVR-MCU Dude (1)",
+			"remark": "How to Program and Set Up an AVR Microcontroller Directly in the Arduino IDE,\nUsing Bootloader, AVRDude, and MCUdude.\nEnjoy!"
+		},
+		"Image_avr-mcu_dude_(2)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\AVR & MCU-Dude",
+			"zoom": false,
+			"name": "AVR-MCU Dude (2).png",
+			"title": "AVR-MCU Dude (2)",
+			"remark": "Simple Diagram of the Process..\nMove your mouse, click, and enjoy!"
+		},
+		"Image_avr-mcu_dude_(3)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\AVR & MCU-Dude",
+			"zoom": false,
+			"name": "AVR-MCU Dude (3).png",
+			"title": "AVR-MCU Dude (3)",
+			"remark": "Our target to implement AVRDude and MCUDude."
+		},
+		"Image_avr-mcu_dude_(4)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\AVR & MCU-Dude",
+			"zoom": false,
+			"name": "AVR-MCU Dude (4).png",
+			"title": "AVR-MCU Dude (4)",
+			"remark": "Summary of step-by-step\n\"Setup for Bootloader\"\nClick to go to Tutorial."
+		},
+		"Image_avr-mcu_dude_(5)": {
+			"separator": "------------------------------------------",
+			"location": "....\\\\AVR & MCU-Dude",
+			"zoom": false,
+			"name": "AVR-MCU Dude (5).png",
+			"title": "AVR-MCU Dude (5)",
+			"remark": "Summary of step-by-step\n\"Setup for Arduino IDE\"\nClick to go to Tutorial."
+		}
+	},
+	"Image_avr-mcu_dude_(2)": {
+		"Break_List": "------------------------------------------",
+		"List_avr-mcu_dude_(2)": [
+			"Software",
+			"Programmer",
+			"Microcontroller"
+		],
+		"avr-mcu_dude_(2)_Software": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 16,
+			"posY": 120,
+			"width": 192,
+			"height": 128,
+			"name": "Software",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "Sw - Extreme Burner.png",
+					"icon": "Img",
+					"location": "....\\\\AVR & MCU-Dude\\image\\Sw - Extreme Burner.png"
+				},
+				{
+					"name": "Sw - ProgISP 1.72.png",
+					"icon": "Img",
+					"location": "....\\\\AVR & MCU-Dude\\image\\Sw - ProgISP 1.72.png"
+				},
+				{
+					"name": "Sw - AVRDude.png",
+					"icon": "Img",
+					"location": "....\\\\AVR & MCU-Dude\\image\\Sw - AVRDude.png"
+				},
+				{
+					"name": "XTreme-Burner",
+					"icon": "Web",
+					"location": "https://www.instructables.com/USING-EXtreme-Burner-for-AVR-Microcontroller-Progr/"
+				},
+				{
+					"name": "XTreme-Burner Source",
+					"icon": "Web",
+					"location": "https://extremeelectronics.co.in/avr-tutorials/gui-software-for-usbasp-based-usb-avr-programmers/"
+				},
+				{
+					"name": "Git progisp v1.72",
+					"icon": "Web",
+					"location": "https://github.com/gen-so/PROGISP-V1.72"
+				},
+				{
+					"name": "USB-ISP Sw by Zhifengsoft",
+					"icon": "Web",
+					"location": "https://archive.org/details/prog-isp-ver-1.72-updated-chip"
+				},
+				{
+					"name": "AVRDude",
+					"icon": "Web",
+					"location": "https://www.nongnu.org/avrdude/"
+				},
+				{
+					"name": "AVRDude Complete",
+					"icon": "Web",
+					"location": "https://www.ladyada.net/learn/avr/avrdude.html"
+				}
+			]
+		},
+		"avr-mcu_dude_(2)_Programmer": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 274,
+			"posY": 120,
+			"width": 198,
+			"height": 128,
+			"name": "Programmer",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "Prog Device.png",
+					"icon": "Img",
+					"location": "....\\\\AVR & MCU-Dude\\image\\Prog Device.png"
+				},
+				{
+					"name": "USB-ASP",
+					"icon": "Web",
+					"location": "https://www.fischl.de/usbasp/"
+				},
+				{
+					"name": "USB-ISP -> USBasp on a clone",
+					"icon": "Web",
+					"location": "https://github.com/aleh/usbisp"
+				}
+			]
+		},
+		"avr-mcu_dude_(2)_Microcontroller": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 536,
+			"posY": 120,
+			"width": 196,
+			"height": 128,
+			"name": "Microcontroller",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "AVR Family",
+					"icon": "Web",
+					"location": "https://en.wikipedia.org/wiki/AVR_microcontrollers"
+				},
+				{
+					"name": "ATmega128 Datasheet",
+					"icon": "Web",
+					"location": "https://www.alldatasheet.com/view.jsp?Searchword=ATMEGA128A"
+				}
+			]
+		}
+	},
+	"Image_avr-mcu_dude_(3)": {
+		"Break_List": "------------------------------------------",
+		"List_avr-mcu_dude_(3)": [
+			"AVR-Mcu",
+			"AVR-Dude",
+			"MCUDude"
+		],
+		"avr-mcu_dude_(3)_AVR-Mcu": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 480,
+			"posY": 1,
+			"width": 163,
+			"height": 46,
+			"name": "AVR-Mcu",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "AVR Family",
+					"icon": "Web",
+					"location": "https://en.wikipedia.org/wiki/AVR_microcontrollers"
+				},
+				{
+					"name": "ATmega128 Datasheet",
+					"icon": "Web",
+					"location": "https://www.alldatasheet.com/view.jsp?Searchword=ATMEGA128A"
+				}
+			]
+		},
+		"avr-mcu_dude_(3)_AVR-Dude": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 644,
+			"posY": 1,
+			"width": 104,
+			"height": 46,
+			"name": "AVR-Dude",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "AVRDude-Complete",
+					"icon": "Web",
+					"location": "https://www.ladyada.net/learn/avr/avrdude.html"
+				},
+				{
+					"name": "AVRDude-Option",
+					"icon": "Web",
+					"location": "https://avrdudes.github.io/avrdude/7.3/avrdude_4.html"
+				},
+				{
+					"name": "AVRDude-Options",
+					"icon": "Web",
+					"location": "https://avrdudes.github.io/avrdude/7.3/avrdude_4.html"
+				}
+			]
+		},
+		"avr-mcu_dude_(3)_MCUDude": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 767,
+			"posY": 1,
+			"width": 110,
+			"height": 46,
+			"name": "MCUDude",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "MCUDude - List.png",
+					"icon": "Img",
+					"location": "....\\\\AVR & MCU-Dude\\image\\MCUDude - List.png"
+				},
+				{
+					"name": "MCUDude-git",
+					"icon": "Web",
+					"location": "https://github.com/MCUdude"
+				}
+			]
+		}
+	},
+	"Image_avr-mcu_dude_(4)": {
+		"Break_List": "------------------------------------------",
+		"List_avr-mcu_dude_(4)": [
+			"Bootloader Tutorial"
+		],
+		"avr-mcu_dude_(4)_Bootloader Tutorial": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 48,
+			"posY": 40,
+			"width": 290,
+			"height": 77,
+			"name": "Bootloader Tutorial",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "AVRDude_Bootloader.pzJales",
+					"icon": "Next",
+					"location": "....\\\\AVRDude_Bootloader.pzJales"
+				}
+			]
+		}
+	},
+	"Image_avr-mcu_dude_(5)": {
+		"Break_List": "------------------------------------------",
+		"List_avr-mcu_dude_(5)": [
+			"Arduino-MCUDude"
+		],
+		"avr-mcu_dude_(5)_Arduino-MCUDude": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 46,
+			"posY": 38,
+			"width": 305,
+			"height": 77,
+			"name": "Arduino-MCUDude",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "ArduinoIDE_and_MCUDude.pzJales",
+					"icon": "Next",
+					"location": "....\\\\ArduinoIDE_and_MCUDude.pzJales"
+				}
+			]
+		}
+	}
 }
