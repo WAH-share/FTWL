@@ -14,16 +14,16 @@ It is completely free, and you can modify the content and share it for personal 
 ## ✨ List of Tutorial
 - **[2025-01-30] M128-Learning Board.**  
 A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.
-> Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
+  > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
 - **[2025-01-30] AVR & MCU-Dude.**  
 A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.
-> Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan mereka.
+  > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan mereka.
 - **[2025-01-30] AVR and Bootloader.**  
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).
-> Tutorial tentang bagaimana mengatur Bootloader untuk mikrokontroller AVR (ATmega128).
+  > Tutorial tentang bagaimana mengatur Bootloader untuk mikrokontroller AVR (ATmega128).
 - **[2025-01-30] Arduino IDE and MCU-Dude.**  
 A tutorial on How to setup Arduino IDE to work with MCUDude.
-> Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
+  > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
 
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
 
@@ -31,8 +31,8 @@ You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH
 ## ✨ To Do Tutorial
 - **Still focus on current target..**  
 Please let me know if you want to me to create another tutorial.
-> Silahkan beritahu saya (toopayz) jika kamu ingin saya membuatkan tutorial lainnya.  
-> (Yang simple-simpel dan cepat di buat ya... :sweat_smile:)
+  > Silahkan beritahu saya (toopayz) jika kamu ingin saya membuatkan tutorial lainnya.  
+  > (Yang simple-simpel dan cepat di buat ya... :sweat_smile:)
 
 ##
 ## ✨ License
