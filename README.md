@@ -23,6 +23,14 @@ A tutorial on How to setup Arduino IDE to work with MCUDude.
 
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
 
+##
+## ✨ To Do Tutorial
+- **Still focus on current target..**  
+Please let me know if you want to me to create another tutorial.
+> Silahkan beritahu saya (toopayz) jika kamu ingin saya membuatkan tutorial lainnya.  
+> (Yang simple-simpel dan cepat di buat ya... :sweat_smile:)
+
+##
 ## ✨ License
 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
 
