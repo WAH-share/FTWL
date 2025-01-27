@@ -1,0 +1,34 @@
+{
+  "Break_Author": "------------------------------------------",
+  "Product_Author": {
+    "SwVersion": "beta v0.90 - 0125",
+    "Location": "....\\",
+    "BoardName": "AVR and Bootloader",
+    "WebSite": "https://github.com/WAH-share/FTWL",
+    "WebText": "Goto: Github share FTWL",
+    "Author": "by: TooPayZ",
+    "Title": "AVR and Bootloader"
+  },
+  "Product_List": {
+    "ImageList": [
+      "AVR&Bootloader (1).png",
+      "AVR&Bootloader (2).png"
+    ],
+    "Image_avr&bootloader_(1)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\AVR and Bootloader",
+      "zoom": false,
+      "name": "AVR&Bootloader (1).png",
+      "title": "AVR&Bootloader (1)",
+      "remark": ""
+    },
+    "Image_avr&bootloader_(2)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\AVR and Bootloader",
+      "zoom": false,
+      "name": "AVR&Bootloader (2).png",
+      "title": "AVR&Bootloader (2)",
+      "remark": ""
+    }
+  }
+}
