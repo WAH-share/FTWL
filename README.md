@@ -12,13 +12,13 @@ It is completely free, and you can modify the content and share it for personal 
 
 ##
 ## ✨ List of Tutorial
-- **[2025-01-30] M128-Learning Board.**
+- **[2025-01-30] M128-Learning Board.**  
 A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.
-- **[2025-01-30] AVR & MCU-Dude.**
+- **[2025-01-30] AVR & MCU-Dude.**  
 A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.
-- **[2025-01-30] AVR and Bootloader.**
+- **[2025-01-30] AVR and Bootloader.**  
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).
-- **[2025-01-30] Arduino IDE and MCU-Dude.**
+- **[2025-01-30] Arduino IDE and MCU-Dude.**  
 A tutorial on How to setup Arduino IDE to work with MCUDude.
 
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
