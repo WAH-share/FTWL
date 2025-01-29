@@ -23,7 +23,7 @@
 			"zoom": false,
 			"name": "M128 (1).png",
 			"title": "M128 (1)",
-			"remark": "A simple and compact trainer board using the main core ATMega128 8-bit AVR microcontroller,\nwith a 16x2 ALCD display, push buttons, relay, 4x4 keypad matrix, joystick, LDR sensor, LM35 sensor, and more.\nGain more learning experience and Enjoy it.\n"
+			"remark": "A simple and compact trainer board using the main core ATMega128 8-bit AVR microcontroller,\nwith a 16x2 ALCD display, push buttons, relay, 4x4 keypad matrix, joystick, LDR sensor, LM35 sensor, and more.\nGain more learning experience and Enjoy!.\n"
 		},
 		"Image_m128_(2)": {
 			"separator": "------------------------------------------",

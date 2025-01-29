@@ -1,0 +1,184 @@
+{
+  "Break_Author": "------------------------------------------",
+  "Product_Author": {
+    "SwVersion": "beta v0.90 - 0125",
+    "Location": "....\\",
+    "BoardName": "ArduinoIDE and MCUDude",
+    "WebSite": "https://github.com/WAH-share/FTWL",
+    "WebText": "Goto: Github share FTWL",
+    "Author": "by: TooPayZ",
+    "Title": "Arduino IDE and MCUDude"
+  },
+  "Product_List": {
+    "ImageList": [
+      "Arduino IDE and MCUDude (1).png",
+      "Arduino IDE and MCUDude (2).png",
+      "Arduino IDE and MCUDude (3).png",
+      "Arduino IDE and MCUDude (4).png",
+      "Arduino IDE and MCUDude (5).png",
+      "Arduino IDE and MCUDude (6).png",
+      "Arduino IDE and MCUDude (7).png",
+      "Arduino IDE and MCUDude (8).png",
+      "Arduino IDE and MCUDude (9).png",
+      "Arduino IDE and MCUDude (10).png",
+      "Arduino IDE and MCUDude (11).png"
+    ],
+    "Image_arduino_ide_and_mcudude_(1)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": false,
+      "name": "Arduino IDE and MCUDude (1).png",
+      "title": "Arduino IDE and MCUDude (1)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(2)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": false,
+      "name": "Arduino IDE and MCUDude (2).png",
+      "title": "Arduino IDE and MCUDude (2)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(3)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": false,
+      "name": "Arduino IDE and MCUDude (3).png",
+      "title": "Arduino IDE and MCUDude (3)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(4)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": true,
+      "name": "Arduino IDE and MCUDude (4).png",
+      "title": "Arduino IDE and MCUDude (4)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(5)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": true,
+      "name": "Arduino IDE and MCUDude (5).png",
+      "title": "Arduino IDE and MCUDude (5)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(6)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": true,
+      "name": "Arduino IDE and MCUDude (6).png",
+      "title": "Arduino IDE and MCUDude (6)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(7)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": true,
+      "name": "Arduino IDE and MCUDude (7).png",
+      "title": "Arduino IDE and MCUDude (7)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(8)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": false,
+      "name": "Arduino IDE and MCUDude (8).png",
+      "title": "Arduino IDE and MCUDude (8)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(9)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": true,
+      "name": "Arduino IDE and MCUDude (9).png",
+      "title": "Arduino IDE and MCUDude (9)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(10)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": false,
+      "name": "Arduino IDE and MCUDude (10).png",
+      "title": "Arduino IDE and MCUDude (10)",
+      "remark": ""
+    },
+    "Image_arduino_ide_and_mcudude_(11)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\Arduino IDE and MCU-Dude",
+      "zoom": true,
+      "name": "Arduino IDE and MCUDude (11).png",
+      "title": "Arduino IDE and MCUDude (11)",
+      "remark": ""
+    }
+  },
+  "Image_arduino_ide_and_mcudude_(2)": {
+    "Break_List": "------------------------------------------",
+    "List_arduino_ide_and_mcudude_(2)": [
+      "MCUDude-MegaCore"
+    ],
+    "arduino_ide_and_mcudude_(2)_MCUDude-MegaCore": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 134,
+      "posY": 39,
+      "width": 247,
+      "height": 40,
+      "name": "MCUDude-MegaCore",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "MegaCore-github",
+          "icon": "Web",
+          "location": "https://github.com/MCUdude/MegaCore"
+        }
+      ]
+    }
+  },
+  "Image_arduino_ide_and_mcudude_(3)": {
+    "Break_List": "------------------------------------------",
+    "List_arduino_ide_and_mcudude_(3)": [
+      "Arduino"
+    ],
+    "arduino_ide_and_mcudude_(3)_Arduino": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 151,
+      "posY": 40,
+      "width": 203,
+      "height": 48,
+      "name": "Arduino",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Arduino-Software",
+          "icon": "Web",
+          "location": "https://www.arduino.cc/en/software"
+        }
+      ]
+    }
+  },
+  "Image_arduino_ide_and_mcudude_(8)": {
+    "Break_List": "------------------------------------------",
+    "List_arduino_ide_and_mcudude_(8)": [
+      "MegaCore.json"
+    ],
+    "arduino_ide_and_mcudude_(8)_MegaCore.json": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 540,
+      "posY": 486,
+      "width": 380,
+      "height": 52,
+      "name": "MegaCore.json",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "MegaCore.json",
+          "icon": "Copy",
+          "location": "https://mcudude.github.io/MegaCore/package_MCUdude_MegaCore_index.json"
+        }
+      ]
+    }
+  }
+}

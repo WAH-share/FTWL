@@ -31,7 +31,7 @@
       "zoom": false,
       "name": "AVR-MCU Dude (2).png",
       "title": "AVR-MCU Dude (2)",
-      "remark": "Simple Diagram of the Process..\nMove your mouse, click, and enjoy!"
+      "remark": "Simple Diagram of the Process..\nMove your mouse, click, and Enjoy!"
     },
     "Image_avr-mcu_dude_(3)": {
       "separator": "------------------------------------------",
@@ -68,10 +68,10 @@
     "avr-mcu_dude_(2)_Software": {
       "separator": "------------------------------------------",
       "type": "rectangle",
-      "posX": 16,
+      "posX": 28,
       "posY": 120,
-      "width": 192,
-      "height": 128,
+      "width": 222,
+      "height": 148,
       "name": "Software",
       "remark": "",
       "linkInfo": [
@@ -125,10 +125,10 @@
     "avr-mcu_dude_(2)_Programmer": {
       "separator": "------------------------------------------",
       "type": "rectangle",
-      "posX": 274,
+      "posX": 324,
       "posY": 120,
-      "width": 198,
-      "height": 128,
+      "width": 222,
+      "height": 148,
       "name": "Programmer",
       "remark": "",
       "linkInfo": [
@@ -152,10 +152,10 @@
     "avr-mcu_dude_(2)_Microcontroller": {
       "separator": "------------------------------------------",
       "type": "rectangle",
-      "posX": 536,
+      "posX": 621,
       "posY": 120,
-      "width": 196,
-      "height": 128,
+      "width": 222,
+      "height": 148,
       "name": "Microcontroller",
       "remark": "",
       "linkInfo": [
@@ -310,9 +310,9 @@
       "remark": "",
       "linkInfo": [
         {
-          "name": "ArduinoIDE_and_MCUDude.pzJales",
+          "name": "ArduinoIDE and MCUDude.pzJales",
           "icon": "Next",
-          "location": "....\\\\ArduinoIDE_and_MCUDude.pzJales"
+          "location": "....\\\\ArduinoIDE and MCUDude.pzJales"
         }
       ]
     }

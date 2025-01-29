@@ -1,6 +1,6 @@
 # FTWL
 ## _From Toopayz With Love_:smile::green_heart:
-
+###### _2025-01-30 - README.md last update_
 Hi Everyone..  
 **FTWL** (From Toopayz With Love) refers to folders, files, images, etc., that are linked to and used with the [JALES Software GUI.](https://github.com/WAH-share/JALES-apps)  
 Basically, this is a package of folders prepared and shared by TooPayz for learning purposes.  
@@ -12,20 +12,26 @@ It is completely free, and you can modify the content and share it for personal 
 
 ##
 ## ✨ List of Tutorial
-- **[2025-01-30] M128-Learning Board.**  
-A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.
-  > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
-- **[2025-01-30] AVR & MCU-Dude.**  
-A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.
-  > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan mereka.
-- **[2025-01-30] AVR and Bootloader.**  
-A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).
-  > Tutorial tentang bagaimana mengatur Bootloader untuk mikrokontroller AVR (ATmega128).
-- **[2025-01-30] Arduino IDE and MCU-Dude.**  
-A tutorial on How to setup Arduino IDE to work with MCUDude.
-  > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
 
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
+
+- **M128-Learning Board.**  
+A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.  
+[2025-01-30] First release.
+  > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
+- **AVR & MCU-Dude.**  
+A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.  
+[2025-01-30] First release.
+  > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan mereka.
+- **AVR and Bootloader.**  
+A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
+[2025-01-30] First release.
+  > Tutorial tentang bagaimana mengatur Bootloader untuk mikrokontroller AVR (ATmega128).
+- **Arduino IDE and MCU-Dude.**  
+A tutorial on How to setup Arduino IDE to work with MCUDude.  
+[2025-01-30] First release.
+  > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
+
 
 ##
 ## ✨ To Do Tutorial
@@ -40,9 +46,9 @@ Please let me know if you want to me to create another tutorial.
 
 ## ✨ Contact
 - Email : [WAH-Learning](mailto:wah.learning@gmail.com).
-- Youtube : [WAH-Video](https://www.youtube.com/@WAH.Learning)
-- Facebook : [WAH-Facebook](https://www.facebook.com/profile.php?id=100094907858032)
-- Instagram : [WAH-Instagram](https://www.instagram.com/wah.digital.solution/)
+- Youtube : [WAH-Video](https://www.youtube.com/@WAH.Learning).
+- Facebook : [WAH-Facebook](https://www.facebook.com/profile.php?id=100094907858032).
+- Instagram : [WAH-Instagram](https://www.instagram.com/wah.digital.solution/).
 
 ##
 ## END of README.md
