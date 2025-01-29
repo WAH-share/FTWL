@@ -42,7 +42,7 @@ Please let me know if you want to me to create another tutorial.
 
 ##
 ## ✨ License
-[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
+This project is licensed under the terms of the [MIT License.](https://github.com/github-linguist/linguist/blob/main/LICENSE)
 
 ## ✨ Contact
 - Email : [WAH-Learning](mailto:wah.learning@gmail.com).
