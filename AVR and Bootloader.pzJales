@@ -1,326 +1,349 @@
 {
-	"Break_Author": "------------------------------------------",
-	"Product_Author": {
-		"SwVersion": "beta v0.90 - 0125",
-		"Location": "....\\",
-		"BoardName": "AVR and Bootloader",
-		"WebSite": "https://github.com/WAH-share/FTWL",
-		"WebText": "Goto: Github share FTWL",
-		"Author": "by: TooPayZ",
-		"Title": "AVR and Bootloader"
-	},
-	"Product_List": {
-		"ImageList": [
-			"AVR&Bootloader (1).png",
-			"AVR&Bootloader (2).png",
-			"AVR&Bootloader (3).png"
-		],
-		"Image_avr&bootloader_(1)": {
-			"separator": "------------------------------------------",
-			"location": "....\\\\AVR and Bootloader",
-			"zoom": false,
-			"name": "AVR&Bootloader (1).png",
-			"title": "AVR&Bootloader (1)",
-			"remark": "A simple tutorial, how to setup Bootloader to ATmega128\nwith PROG ISP programmer and software ProgISP Ver 1.72.\nEnjoy !"
-		},
-		"Image_avr&bootloader_(2)": {
-			"separator": "------------------------------------------",
-			"location": "....\\\\AVR and Bootloader",
-			"zoom": false,
-			"name": "AVR&Bootloader (2).png",
-			"title": "AVR&Bootloader (2)",
-			"remark": "Diagram flow and what is needed.\nMove your mouse, click, and Enjoy!"
-		},
-		"Image_avr&bootloader_(3)": {
-			"separator": "------------------------------------------",
-			"location": "....\\\\AVR and Bootloader",
-			"zoom": false,
-			"name": "AVR&Bootloader (3).png",
-			"title": "AVR&Bootloader (3)",
-			"remark": "Software GUI ProgISP Ver 1.72.\nMove your mouse, click, and Enjoy!"
-		}
-	},
-	"Image_avr&bootloader_(2)": {
-		"Break_List": "------------------------------------------",
-		"List_avr&bootloader_(2)": [
-			"Software",
-			"Hardware",
-			"Microcontroller",
-			"ProgISP",
-			"USB-ISP",
-			"ATmega128"
-		],
-		"avr&bootloader_(2)_Software": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 31,
-			"posY": 100,
-			"width": 218,
-			"height": 144,
-			"name": "Software",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "Hw-01.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\Hw-01.png"
-				},
-				{
-					"name": "Hw-02.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\Hw-02.png"
-				},
-				{
-					"name": "USB-ASP v2",
-					"icon": "Coin",
-					"location": "https://www.tokopedia.com/rajacell/usbasp-v2-arduinoo-isp-programmer-bootloader-usb-asp-untuk-copy-program-download-firmware-atmega-paket-lengkap-17233"
-				}
-			]
-		},
-		"avr&bootloader_(2)_Hardware": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 326,
-			"posY": 100,
-			"width": 218,
-			"height": 144,
-			"name": "Hardware",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "Sw - Extreme Burner.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\Sw - Extreme Burner.png"
-				},
-				{
-					"name": "Sw - AVRDude.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\Sw - AVRDude.png"
-				}
-			]
-		},
-		"avr&bootloader_(2)_Microcontroller": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 623,
-			"posY": 100,
-			"width": 218,
-			"height": 144,
-			"name": "Microcontroller",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "MCU-01.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\MCU-01.png"
-				}
-			]
-		},
-		"avr&bootloader_(2)_ProgISP": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 31,
-			"posY": 253,
-			"width": 218,
-			"height": 66,
-			"name": "ProgISP",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "Hw-03.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\Hw-03.png"
-				}
-			]
-		},
-		"avr&bootloader_(2)_USB-ISP": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 326,
-			"posY": 253,
-			"width": 218,
-			"height": 66,
-			"name": "USB-ISP",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "Sw - ProgISP 1.72.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\Sw - ProgISP 1.72.png"
-				}
-			]
-		},
-		"avr&bootloader_(2)_ATmega128": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 623,
-			"posY": 253,
-			"width": 218,
-			"height": 66,
-			"name": "ATmega128",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "MCU-02.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\MCU-02.png"
-				},
-				{
-					"name": "ATMEGA128A.PDF",
-					"icon": "Pdf",
-					"location": "....\\\\All PDF\\ATMEGA128A.PDF"
-				},
-				{
-					"name": "MCUDude-MegaCore",
-					"icon": "Web",
-					"location": "https://github.com/MCUdude/MegaCore/tree/master"
-				},
-				{
-					"name": "ATmega128 Bootloader",
-					"icon": "Web",
-					"location": "https://github.com/MCUdude/MegaCore/tree/master/avr/bootloaders/optiboot_flash/bootloaders/atmega128/11059200L"
-				}
-			]
-		}
-	},
-	"Image_avr&bootloader_(3)": {
-		"Break_List": "------------------------------------------",
-		"List_avr&bootloader_(3)": [
-			"01_Select-Chip",
-			"02_Erasing",
-			"03_FuseBit",
-			"04_Load-Hex",
-			"05_AutoProcess"
-		],
-		"avr&bootloader_(3)_01_Select-Chip": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 5,
-			"posY": 60,
-			"width": 229,
-			"height": 90,
-			"name": "01_Select-Chip",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "ProgISP 01 - Connect.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 01 - Connect.png"
-				}
-			]
-		},
-		"avr&bootloader_(3)_02_Erasing": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 193,
-			"posY": 328,
-			"width": 118,
-			"height": 61,
-			"name": "02_Erasing",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "ProgISP 02 - Erase & Read.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 02 - Erase & Read.png"
-				}
-			]
-		},
-		"avr&bootloader_(3)_03_FuseBit": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 680,
-			"posY": 215,
-			"width": 98,
-			"height": 160,
-			"name": "03_FuseBit",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "ProgISP 03A - Read.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03A - Read.png"
-				},
-				{
-					"name": "ProgISP 03B - Write.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03B - Write.png"
-				},
-				{
-					"name": "ProgISP 03C - FuseBit0.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03C - FuseBit0.png"
-				},
-				{
-					"name": "ProgISP 03D - FuseBit1.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03D - FuseBit1.png"
-				},
-				{
-					"name": "ProgISP 03E - FuseBoot.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03E - FuseBoot.png"
-				},
-				{
-					"name": "ProgISP 03F - BootSize.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03F - BootSize.png"
-				},
-				{
-					"name": "ATMEGA128A.PDF",
-					"icon": "Pdf",
-					"location": "....\\\\All PDF\\ATMEGA128A.PDF"
-				}
-			]
-		},
-		"avr&bootloader_(3)_04_Load-Hex": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 783,
-			"posY": 57,
-			"width": 98,
-			"height": 71,
-			"name": "04_Load-Hex",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "ATmega128 Bootloader",
-					"icon": "Web",
-					"location": "https://github.com/MCUdude/MegaCore/tree/master/avr/bootloaders/optiboot_flash/bootloaders/atmega128/11059200L"
-				},
-				{
-					"name": "optiboot_hex file",
-					"icon": "Text",
-					"location": "....\\\\AVR and Bootloader\\Hex Bootloader\\optiboot_flash_atmega128_UART0_115200_16000000L_B5_BIGBOOT.hex"
-				},
-				{
-					"name": "ProgISP 04A - Load.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04A - Load.png"
-				},
-				{
-					"name": "ProgISP 04B - CheckHex.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04B - CheckHex.png"
-				}
-			]
-		},
-		"avr&bootloader_(3)_05_AutoProcess": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 522,
-			"posY": 316,
-			"width": 110,
-			"height": 76,
-			"name": "05_AutoProcess",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "ProgISP 05 - AutoFlash.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 05 - AutoFlash.png"
-				}
-			]
-		}
-	}
+  "Break_Author": "------------------------------------------",
+  "Product_Author": {
+    "SwVersion": "beta v0.90 - 0125",
+    "Location": "....\\",
+    "BoardName": "AVR and Bootloader",
+    "WebSite": "https://github.com/WAH-share/FTWL",
+    "WebText": "Goto: Github share FTWL",
+    "Author": "by: TooPayZ",
+    "Title": "AVR and Bootloader"
+  },
+  "Product_List": {
+    "ImageList": [
+      "AVR&Bootloader (1).png",
+      "AVR&Bootloader (2).png",
+      "AVR&Bootloader (3).png"
+    ],
+    "Image_avr&bootloader_(1)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\AVR and Bootloader",
+      "zoom": false,
+      "name": "AVR&Bootloader (1).png",
+      "title": "AVR&Bootloader (1)",
+      "remark": "A simple tutorial, how to setup Bootloader to ATmega128\nwith PROG ISP programmer and software ProgISP Ver 1.72.\nEnjoy !"
+    },
+    "Image_avr&bootloader_(2)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\AVR and Bootloader",
+      "zoom": false,
+      "name": "AVR&Bootloader (2).png",
+      "title": "AVR&Bootloader (2)",
+      "remark": "Diagram flow and what is needed.\nMove your mouse, click, and Enjoy!"
+    },
+    "Image_avr&bootloader_(3)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\AVR and Bootloader",
+      "zoom": false,
+      "name": "AVR&Bootloader (3).png",
+      "title": "AVR&Bootloader (3)",
+      "remark": "Software GUI ProgISP Ver 1.72.\nMove your mouse, click, and Enjoy!"
+    }
+  },
+  "Image_avr&bootloader_(2)": {
+    "Break_List": "------------------------------------------",
+    "List_avr&bootloader_(2)": [
+      "Software",
+      "Hardware",
+      "Microcontroller",
+      "ProgISP",
+      "USB-ISP",
+      "ATmega128"
+    ],
+    "avr&bootloader_(2)_Software": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 31,
+      "posY": 100,
+      "width": 218,
+      "height": 144,
+      "name": "Software",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Sw - Extreme Burner.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\Sw - Extreme Burner.png"
+        },
+        {
+          "name": "Sw - AVRDude.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\Sw - AVRDude.png"
+        }
+      ]
+    },
+    "avr&bootloader_(2)_Hardware": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 326,
+      "posY": 100,
+      "width": 218,
+      "height": 144,
+      "name": "Hardware",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Hw-01.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\Hw-01.png"
+        },
+        {
+          "name": "Hw-02.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\Hw-02.png"
+        },
+        {
+          "name": "USB-ASP v2",
+          "icon": "Coin",
+          "location": "https://www.tokopedia.com/rajacell/usbasp-v2-arduinoo-isp-programmer-bootloader-usb-asp-untuk-copy-program-download-firmware-atmega-paket-lengkap-17233"
+        }
+      ]
+    },
+    "avr&bootloader_(2)_Microcontroller": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 623,
+      "posY": 100,
+      "width": 218,
+      "height": 144,
+      "name": "Microcontroller",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "MCU-01.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\MCU-01.png"
+        }
+      ]
+    },
+    "avr&bootloader_(2)_ProgISP": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 31,
+      "posY": 253,
+      "width": 218,
+      "height": 66,
+      "name": "ProgISP",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "ProgISP v1.72",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\AVR&Bootloader (3).png"
+        }
+      ]
+    },
+    "avr&bootloader_(2)_USB-ISP": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 326,
+      "posY": 253,
+      "width": 218,
+      "height": 66,
+      "name": "USB-ISP",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Hw-03.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\Hw-03.png"
+        }
+      ]
+    },
+    "avr&bootloader_(2)_ATmega128": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 623,
+      "posY": 253,
+      "width": 218,
+      "height": 66,
+      "name": "ATmega128",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "MCU-02.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\MCU-02.png"
+        },
+        {
+          "name": "ATMEGA128A.PDF",
+          "icon": "Pdf",
+          "location": "....\\\\All PDF\\ATMEGA128A.PDF"
+        },
+        {
+          "name": "MCUDude-MegaCore",
+          "icon": "Web",
+          "location": "https://github.com/MCUdude/MegaCore/tree/master"
+        },
+        {
+          "name": "ATmega128 Bootloader",
+          "icon": "Web",
+          "location": "https://github.com/MCUdude/MegaCore/tree/master/avr/bootloaders/optiboot_flash/bootloaders/atmega128/11059200L"
+        }
+      ]
+    }
+  },
+  "Image_avr&bootloader_(3)": {
+    "Break_List": "------------------------------------------",
+    "List_avr&bootloader_(3)": [
+      "01_Select-Chip",
+      "02_Erasing",
+      "03_FuseBit",
+      "04_Load-Hex",
+      "05_AutoProcess",
+      "06_ReadFlash"
+    ],
+    "avr&bootloader_(3)_01_Select-Chip": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 5,
+      "posY": 60,
+      "width": 230,
+      "height": 90,
+      "name": "01_Select-Chip",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "ProgISP 01 - Connect.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 01 - Connect.png"
+        }
+      ]
+    },
+    "avr&bootloader_(3)_02_Erasing": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 193,
+      "posY": 328,
+      "width": 118,
+      "height": 61,
+      "name": "02_Erasing",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "ProgISP 02 - Erase & Read.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 02 - Erase & Read.png"
+        }
+      ]
+    },
+    "avr&bootloader_(3)_03_FuseBit": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 680,
+      "posY": 215,
+      "width": 98,
+      "height": 160,
+      "name": "03_FuseBit",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "ProgISP 03A - Read.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 03A - Read.png"
+        },
+        {
+          "name": "ProgISP 03B - Write.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 03B - Write.png"
+        },
+        {
+          "name": "ProgISP 03C - FuseBit0.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 03C - FuseBit0.png"
+        },
+        {
+          "name": "ProgISP 03D - FuseBit1.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 03D - FuseBit1.png"
+        },
+        {
+          "name": "ProgISP 03E - FuseBoot.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 03E - FuseBoot.png"
+        },
+        {
+          "name": "ProgISP 03F - BootSize.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 03F - BootSize.png"
+        },
+        {
+          "name": "ATMEGA128A.PDF",
+          "icon": "Pdf",
+          "location": "....\\\\All PDF\\ATMEGA128A.PDF"
+        }
+      ]
+    },
+    "avr&bootloader_(3)_04_Load-Hex": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 783,
+      "posY": 57,
+      "width": 98,
+      "height": 71,
+      "name": "04_Load-Hex",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "ATmega128 Bootloader",
+          "icon": "Web",
+          "location": "https://github.com/MCUdude/MegaCore/tree/master/avr/bootloaders/optiboot_flash/bootloaders/atmega128/11059200L"
+        },
+        {
+          "name": "optiboot_hex file",
+          "icon": "Text",
+          "location": "....\\\\AVR and Bootloader\\Hex Bootloader\\optiboot_flash_atmega128_UART0_115200_16000000L_B5_BIGBOOT.hex"
+        },
+        {
+          "name": "ProgISP 04A - Load.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 04A - Load.png"
+        },
+        {
+          "name": "ProgISP 04B - CheckHex.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 04B - CheckHex.png"
+        }
+      ]
+    },
+    "avr&bootloader_(3)_05_AutoProcess": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 522,
+      "posY": 316,
+      "width": 110,
+      "height": 76,
+      "name": "05_AutoProcess",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "ProgISP 05 - AutoFlash.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 05 - AutoFlash.png"
+        }
+      ]
+    },
+    "avr&bootloader_(3)_06_ReadFlash": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 5,
+      "posY": 15,
+      "width": 230,
+      "height": 39,
+      "name": "06_ReadFlash",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "ProgISP 06A - ReadFlash.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 06A - ReadFlash.png"
+        },
+        {
+          "name": "ProgISP 06B - CheckHex.png",
+          "icon": "Img",
+          "location": "....\\\\AVR and Bootloader\\image\\ProgISP 06B - CheckHex.png"
+        }
+      ]
+    }
+  }
 }

@@ -168,6 +168,11 @@
           "name": "ATmega128 Datasheet",
           "icon": "Web",
           "location": "https://www.alldatasheet.com/view.jsp?Searchword=ATMEGA128A"
+        },
+        {
+          "name": "AVR Family Comparison.",
+          "icon": "Web",
+          "location": "https://www.futurlec.com/ICAtmel_ATMega_Comparison.shtml"
         }
       ]
     }
