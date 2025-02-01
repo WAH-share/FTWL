@@ -64,7 +64,7 @@
 			"ATmega128",
 			"USB-CH340",
 			"DS1302",
-			"Id_04",
+			"Buzzer",
 			"Keypad-Port",
 			"StepDown-5V"
 		],
@@ -184,14 +184,14 @@
 				}
 			]
 		},
-		"m128_(5)_Id_04": {
+		"m128_(5)_Buzzer": {
 			"separator": "------------------------------------------",
 			"type": "rectangle",
 			"posX": 255,
 			"posY": 190,
 			"width": 85,
 			"height": 85,
-			"name": "Id_04",
+			"name": "Buzzer",
 			"remark": "",
 			"linkInfo": [
 				{
