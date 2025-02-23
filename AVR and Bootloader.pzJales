@@ -187,9 +187,9 @@
 		"Break_List": "------------------------------------------",
 		"List_avr&bootloader_(3)": [
 			"01_Select-Chip",
-			"02_Erasing",
-			"03_FuseBit",
-			"04_Load-Hex",
+			"02_Load-Hex",
+			"03_Erasing",
+			"04_FuseBit",
 			"05_AutoProcess",
 			"06_ReadFlash"
 		],
@@ -210,78 +210,14 @@
 				}
 			]
 		},
-		"avr&bootloader_(3)_02_Erasing": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 193,
-			"posY": 328,
-			"width": 118,
-			"height": 61,
-			"name": "02_Erasing",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "ProgISP 02 - Erase & Read.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 02 - Erase & Read.png"
-				}
-			]
-		},
-		"avr&bootloader_(3)_03_FuseBit": {
-			"separator": "------------------------------------------",
-			"type": "rectangle",
-			"posX": 680,
-			"posY": 215,
-			"width": 98,
-			"height": 160,
-			"name": "03_FuseBit",
-			"remark": "",
-			"linkInfo": [
-				{
-					"name": "ProgISP 03A - Read.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03A - Read.png"
-				},
-				{
-					"name": "ProgISP 03B - Write.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03B - Write.png"
-				},
-				{
-					"name": "ProgISP 03C - FuseBit0.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03C - FuseBit0.png"
-				},
-				{
-					"name": "ProgISP 03D - FuseBit1.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03D - FuseBit1.png"
-				},
-				{
-					"name": "ProgISP 03E - FuseBoot.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03E - FuseBoot.png"
-				},
-				{
-					"name": "ProgISP 03F - BootSize.png",
-					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03F - BootSize.png"
-				},
-				{
-					"name": "ATMEGA128A.PDF",
-					"icon": "Pdf",
-					"location": "....\\\\All PDF\\ATMEGA128A.PDF"
-				}
-			]
-		},
-		"avr&bootloader_(3)_04_Load-Hex": {
+		"avr&bootloader_(3)_02_Load-Hex": {
 			"separator": "------------------------------------------",
 			"type": "rectangle",
 			"posX": 783,
 			"posY": 57,
 			"width": 98,
 			"height": 71,
-			"name": "04_Load-Hex",
+			"name": "02_Load-Hex",
 			"remark": "",
 			"linkInfo": [
 				{
@@ -297,7 +233,7 @@
 				{
 					"name": "Boot Address Size",
 					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03E - FuseBoot.png"
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04E - FuseBoot.png"
 				},
 				{
 					"name": "IPE Intel HEX File Format",
@@ -310,14 +246,78 @@
 					"location": "https://developer.arm.com/documentation/ka003292/latest/"
 				},
 				{
-					"name": "ProgISP 04A - Load.png",
+					"name": "ProgISP 02A - Load.png",
 					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04A - Load.png"
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 02A - Load.png"
 				},
 				{
-					"name": "ProgISP 04B - CheckHex.png",
+					"name": "ProgISP 02B - CheckHex.png",
 					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04B - CheckHex.png"
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 02B - CheckHex.png"
+				}
+			]
+		},
+		"avr&bootloader_(3)_03_Erasing": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 193,
+			"posY": 328,
+			"width": 118,
+			"height": 61,
+			"name": "03_Erasing",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "ProgISP 03 - Erase & Read.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 03 - Erase & Read.png"
+				}
+			]
+		},
+		"avr&bootloader_(3)_04_FuseBit": {
+			"separator": "------------------------------------------",
+			"type": "rectangle",
+			"posX": 680,
+			"posY": 215,
+			"width": 98,
+			"height": 160,
+			"name": "04_FuseBit",
+			"remark": "",
+			"linkInfo": [
+				{
+					"name": "ProgISP 04A - Read.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04A - Read.png"
+				},
+				{
+					"name": "ProgISP 04B - Write.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04B - Write.png"
+				},
+				{
+					"name": "ProgISP 04C - FuseBit0.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04C - FuseBit0.png"
+				},
+				{
+					"name": "ProgISP 04D - FuseBit1.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04D - FuseBit1.png"
+				},
+				{
+					"name": "ProgISP 04E - FuseBoot.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04E - FuseBoot.png"
+				},
+				{
+					"name": "ProgISP 04F - BootSize.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04F - BootSize.png"
+				},
+				{
+					"name": "ATMEGA128A.PDF",
+					"icon": "Pdf",
+					"location": "....\\\\All PDF\\ATMEGA128A.PDF"
 				}
 			]
 		},
