@@ -349,14 +349,19 @@
 			"remark": "",
 			"linkInfo": [
 				{
-					"name": "ProgISP 06A - ReadFlash.png",
+					"name": "ProgISP 06A - LoadEmpty.png",
 					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 06A - ReadFlash.png"
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 06A - LoadEmpty.png"
 				},
 				{
-					"name": "ProgISP 06B - CheckHex.png",
+					"name": "ProgISP 06B - ReadFlash.png",
 					"icon": "Img",
-					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 06B - CheckHex.png"
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 06B - ReadFlash.png"
+				},
+				{
+					"name": "ProgISP 06C - CheckHex.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 06C - CheckHex.png"
 				}
 			]
 		}
