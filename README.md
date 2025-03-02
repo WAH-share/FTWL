@@ -14,16 +14,17 @@ It is completely free, and you can modify the content and share it for personal 
 ## ✨ List of Tutorial
 
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
+* [AVR & MCU-Dude.](#AVR & MCU-Dude.)
+* [AVR and Bootloader.](#AVR and Bootloader.)
+* [Arduino IDE and MCU-Dude.](#Arduino IDE and MCU-Dude.)
+* [M128-Learning Board.](#M128-Learning Board.)
 
-- **M128-Learning Board.**  
-A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.  
-[2025-01-30] First release.
-  > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
 - **AVR & MCU-Dude.**  
 A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.  
 [2025-01-30] First release.  
 [2025-01-30] Rev 1.0 Add Link MCU Comparison.
   > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan mereka.
+
 - **AVR and Bootloader.**  
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
 [2025-01-30] First release.  
@@ -34,15 +35,16 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 [2025-02-23] Rev 1.1 Topic 3-4: fuse_bit write bootSize.  
 [2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.
   > Tutorial tentang bagaimana mengatur Bootloader untuk mikrokontroller AVR (ATmega128).
+
 - **Arduino IDE and MCU-Dude.**  
 A tutorial on How to setup Arduino IDE to work with MCUDude.  
 [2025-01-30] First release.
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
 
-### [003] AVR and Bootloader.  
-<iframe src="https://github.com/WAH-share/FTWL/blob/main/AVR%20and%20Bootloader/README.md" width="100%"/>
-
-[Set path.](https://github.com/WAH-share/FTWL/blob/main/AVR%20and%20Bootloader/README.md)
+- **M128-Learning Board.**  
+A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.  
+[2025-01-30] First release.
+  > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
 
 ##
 ## ✨ To Do Tutorial
