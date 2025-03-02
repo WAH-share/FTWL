@@ -39,7 +39,6 @@ A tutorial on How to setup Arduino IDE to work with MCUDude.
 [2025-01-30] First release.
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
 
-
 ##
 ## ✨ To Do Tutorial
 - **Still focus on current target..**  
