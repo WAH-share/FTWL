@@ -1,4 +1,4 @@
-# FTWL
+## FTWL
 - **AVR and Bootloader.**  
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
 [2025-01-30] First release.  

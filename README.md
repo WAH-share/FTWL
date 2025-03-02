@@ -14,10 +14,14 @@ It is completely free, and you can modify the content and share it for personal 
 ## ✨ List of Tutorial
 
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
-* [AVR & MCU-Dude.](#AVR & MCU-Dude.)
-* [AVR and Bootloader.](#AVR and Bootloader.)
-* [Arduino IDE and MCU-Dude.](#Arduino IDE and MCU-Dude.)
-* [M128-Learning Board.](#M128-Learning Board.)
+* [AVR & MCU-Dude](#AVR & MCU-Dude)
+* [AVR and Bootloader](#AVR and Bootloader)
+* [Arduino IDE and MCU-Dude](#Arduino IDE and MCU-Dude)
+* [M128-Learning Board](#M128-Learning Board)
+
+
+## AVR & MCU-Dude:
+
 
 - **AVR & MCU-Dude.**  
 A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.  
