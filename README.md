@@ -13,21 +13,21 @@ It is completely free, and you can modify the content and share it for personal 
 ##
 ## ✨ List of Tutorial
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
-* [AVR & MCU-Dude](#AVR-&-MCU-Dude)
-* [AVR and Bootloader](#supported-clock-frequencies)
-* [Arduino IDE and MCU-Dude](#Arduino-IDE-and-MCU-Dude)
-* [M128-Learning Board](#M128-Learning-Board)
+* [AVR & MCU-Dude](#AVR-&-MCUdude)
+* [AVR and Bootloader](#AVR and Bootloader)
+* [Arduino IDE and MCU-Dude](#Arduino IDE and MCUdude)
+* [M128-Learning Board](#M128-Learning Board)
 
 ##
-## :heavy_check_mark:AVR & MCU-Dude
-A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.  
-  > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan diantaranya.
+## AVR & MCUdude
+A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.  
+  > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUdude_ dan hubungan diantaranya.
   
 [2025-01-30] First release.  
 [2025-01-30] Rev 1.0 Add Link MCU Comparison.
 
 ##
-## :heavy_check_mark:AVR and Bootloader
+## AVR and Bootloader
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
   > Tutorial tentang pengaturan/konfigurasi fuse-bit and Bootloader untuk mikrokontroller AVR (ATmega128).
   
@@ -40,14 +40,14 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 [2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.
 
 ##
-## :heavy_check_mark:Arduino IDE and MCU-Dude
-A tutorial on How to setup Arduino IDE to work with MCUDude. 
-  > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
+## Arduino IDE and MCUdude
+A tutorial on How to setup Arduino IDE to work with MCUdude. 
+  > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUdude.
   
 [2025-01-30] First release.
 
 ##
-## :heavy_check_mark:M128-Learning Board
+## M128 Learning Board
 A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.  
   > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
   
