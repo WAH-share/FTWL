@@ -14,9 +14,9 @@ It is completely free, and you can modify the content and share it for personal 
 ## ✨ List of Tutorial
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
 * [AVR & MCU-Dude](#AVR-&-MCUdude)
-* [AVR and Bootloader](#AVR and Bootloader)
-* [Arduino IDE and MCU-Dude](#Arduino IDE and MCUdude)
-* [M128-Learning Board](#M128-Learning Board)
+* [AVR and Bootloader](#AVR-and-Bootloader)
+* [Arduino IDE and MCU-Dude](#Arduino-IDE-and-MCUdude)
+* [M128-Learning Board](#M128-Learning-Board)
 
 ##
 ## AVR & MCUdude
