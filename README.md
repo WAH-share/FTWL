@@ -40,7 +40,7 @@ A tutorial on How to setup Arduino IDE to work with MCUDude.
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
 
 ### [003] AVR and Bootloader.  
-<iframe src="https://github.com/WAH-share/FTWL/blob/main/AVR%20and%20Bootloader/README.md" width="100%" height="500px"></iframe>
+<iframe src="https://github.com/WAH-share/FTWL/blob/main/AVR%20and%20Bootloader/README.md" width="100%"/>
 
 [Set path.](https://github.com/WAH-share/FTWL/blob/main/AVR%20and%20Bootloader/README.md)
 
