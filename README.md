@@ -1,5 +1,5 @@
 # FTWL
-## _From Toopayz With Love_:smile::green_heart:
+## ✨ _From Toopayz With Love_:smile::green_heart:
 ###### _2025-01-30 17:30 - README.md last update_
 Hi Everyone..  
 **FTWL** (From Toopayz With Love) refers to folders, files, images, etc., that are linked to and used with the [JALES Software GUI.](https://github.com/WAH-share/JALES-apps)  
@@ -12,25 +12,25 @@ It is completely free, and you can modify the content and share it for personal 
 
 ##
 ## ✨ List of Tutorial
-
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
-* [AVR & MCU-Dude](#AVR & MCU-Dude)
-* [AVR and Bootloader](#AVR and Bootloader)
-* [Arduino IDE and MCU-Dude](#Arduino IDE and MCU-Dude)
-* [M128-Learning Board](#M128-Learning Board)
+* [AVR & MCU-Dude](#AVR-&-MCU-Dude)
+* [AVR and Bootloader](#supported-clock-frequencies)
+* [Arduino IDE and MCU-Dude](#Arduino-IDE-and-MCU-Dude)
+* [M128-Learning Board](#M128-Learning-Board)
 
-
-## AVR & MCU-Dude:
-
-
-- **AVR & MCU-Dude.**  
+##
+## :heavy_check_mark:AVR & MCU-Dude
 A tutorial explaining _AVR MCU, AVRDude, and MCUDude_ and their relationship.  
+  > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan diantaranya.
+  
 [2025-01-30] First release.  
 [2025-01-30] Rev 1.0 Add Link MCU Comparison.
-  > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUDude_ dan hubungan mereka.
 
-- **AVR and Bootloader.**  
+##
+## :heavy_check_mark:AVR and Bootloader
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
+  > Tutorial tentang pengaturan/konfigurasi fuse-bit and Bootloader untuk mikrokontroller AVR (ATmega128).
+  
 [2025-01-30] First release.  
 [2025-01-30] Rev 1.0 Wrong link on MainImage-2.  
 [2025-01-30] Rev 1.0 Add step 06 Read and Check Flash.  
@@ -38,17 +38,20 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 [2025-02-23] Rev 1.1 Topic 3-2: Link and image Bootloader intel hex file format.  
 [2025-02-23] Rev 1.1 Topic 3-4: fuse_bit write bootSize.  
 [2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.
-  > Tutorial tentang bagaimana mengatur Bootloader untuk mikrokontroller AVR (ATmega128).
 
-- **Arduino IDE and MCU-Dude.**  
-A tutorial on How to setup Arduino IDE to work with MCUDude.  
-[2025-01-30] First release.
+##
+## :heavy_check_mark:Arduino IDE and MCU-Dude
+A tutorial on How to setup Arduino IDE to work with MCUDude. 
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUDude.
-
-- **M128-Learning Board.**  
-A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.  
+  
 [2025-01-30] First release.
+
+##
+## :heavy_check_mark:M128-Learning Board
+A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.  
   > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
+  
+[2025-01-30] First release.
 
 ##
 ## ✨ To Do Tutorial
