@@ -13,13 +13,13 @@ It is completely free, and you can modify the content and share it for personal 
 ##
 ## ✨ List of Tutorial
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
-* [AVR & MCU-Dude](#AVR-&-MCUdude)
+* [AVR and MCUdude](#AVR-and-MCUdude)
 * [AVR and Bootloader](#AVR-and-Bootloader)
-* [Arduino IDE and MCU-Dude](#Arduino-IDE-and-MCUdude)
+* [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
 * [M128-Learning Board](#M128-Learning-Board)
 
 ##
-## AVR & MCUdude
+## :heavy_check_mark:AVR and MCUdude
 A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.  
   > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUdude_ dan hubungan diantaranya.
   
@@ -27,7 +27,7 @@ A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.
 [2025-01-30] Rev 1.0 Add Link MCU Comparison.
 
 ##
-## AVR and Bootloader
+## :heavy_check_mark:AVR and Bootloader
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
   > Tutorial tentang pengaturan/konfigurasi fuse-bit and Bootloader untuk mikrokontroller AVR (ATmega128).
   
