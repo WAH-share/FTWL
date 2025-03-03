@@ -19,7 +19,7 @@ You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH
 * [M128-Learning Board](#M128-Learning-Board)
 
 ##
-## :heavy_check_mark:AVR and MCUdude
+## AVR and MCUdude :heavy_check_mark:
 A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.  
   > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUdude_ dan hubungan diantaranya.
   
@@ -27,7 +27,7 @@ A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.
 [2025-01-30] Rev 1.0 Add Link MCU Comparison.
 
 ##
-## :heavy_check_mark:AVR and Bootloader
+## AVR and Bootloader :heavy_check_mark:
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
   > Tutorial tentang pengaturan/konfigurasi fuse-bit and Bootloader untuk mikrokontroller AVR (ATmega128).
   
@@ -40,7 +40,7 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 [2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.
 
 ##
-## Arduino IDE and MCUdude
+## Arduino IDE and MCUdude :heavy_check_mark:
 A tutorial on How to setup Arduino IDE to work with MCUdude. 
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUdude.
   
