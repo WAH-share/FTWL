@@ -46,7 +46,8 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 A tutorial on How to setup Arduino IDE to work with MCUdude. 
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUdude.
   
-[2025-01-30] First release.
+[2025-01-30] First release.  
+[2025-03-03] Rev 1.1 Resize images (2), (3), (4), and (8).
 
 ##
 ## M128 Learning Board
