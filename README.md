@@ -38,7 +38,7 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 [2025-02-23] Rev 1.1 Topic 3: Change sequence 2, 3, and 4.  
 [2025-02-23] Rev 1.1 Topic 3-2: Link and image Bootloader intel hex file format.  
 [2025-02-23] Rev 1.1 Topic 3-4: fuse_bit write bootSize.  
-[2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.
+[2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.  
 [2025-03-03] Rev 1.2 Topic 3-2: Link and image Intel Hex format.png
 
 ##
