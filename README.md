@@ -16,8 +16,9 @@ You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH
 * :heavy_check_mark: JALES Introduction -> [Watch Youtube](https://www.youtube.com/watch?v=bqwzhH1_K6U)
 * :heavy_check_mark: [AVR and MCUdude](#AVR-and-MCUdude) -> [Watch Youtube](https://www.youtube.com/watch?v=02lb0dkuAp8)
 * :heavy_check_mark: [AVR and Bootloader](#AVR-and-Bootloader) -> [Watch Youtube](https://www.youtube.com/watch?v=dih5kE6M6og)
-* :hourglass: [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
-* :hourglass: [M128-Learning Board](#M128-Learning-Board)
+* :heavy_check_mark: [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
+* :hourglass: [M128-Learning Board Introduction](#M128-Learning-Board-Introduction)
+* :hourglass: [M128-LB: LED 8-bit](#M128-Learning-Board: LED 8-bit)
 
 ##
 ## AVR and MCUdude
@@ -50,9 +51,16 @@ A tutorial on How to setup Arduino IDE to work with MCUdude.
 [2025-03-03] Rev 1.1 Resize images (2), (3), (4), and (8).
 
 ##
-## M128 Learning Board
-A tutorial on How to use : the _M128 Learning Board_ created by TooPayz.  
-  > Tutorial tentang bagaimana cara menggunakan : _M128 Learning Board_ yang dibuat oleh toopayz.
+## M128-Learning Board Introduction
+A tutorial Introduction to : the _M128 Learning Board_ created by TooPayz.  
+  > Tutorial tentang pengenalan _M128-Learning Board_ dibuat oleh toopayz.
+  
+[2025-01-30] First release.
+
+##
+## M128-Learning-Board: LED 8-bit
+A tutorial on the _M128 Learning Board_ : Playing with the 8-bit LED.  
+  > Tutorial tentang _M128 Learning Board_ : bermain-main dengan LED 8-bit.
   
 [2025-01-30] First release.
 
