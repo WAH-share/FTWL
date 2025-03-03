@@ -18,7 +18,7 @@ You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH
 * :heavy_check_mark: [AVR and Bootloader](#AVR-and-Bootloader) -> [Watch Youtube](https://www.youtube.com/watch?v=dih5kE6M6og)
 * :heavy_check_mark: [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
 * :hourglass: [M128-Learning Board Introduction](#M128-Learning-Board-Introduction)
-* :hourglass: [M128-LB: LED 8-bit](#M128-Learning-Board: LED 8-bit)
+* :hourglass: [M128-LB: LED 8-bit](#m128-learning-board-led-8-bit)
 
 ##
 ## AVR and MCUdude
@@ -26,7 +26,8 @@ A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.
   > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUdude_ dan hubungan diantaranya.
   
 [2025-01-30] First release.  
-[2025-01-30] Rev 1.0 Add Link MCU Comparison.
+[2025-01-30] Rev 1.0 Add Link MCU Comparison.  
+[Back to List](#-list-of-tutorial)  
 
 ##
 ## AVR and Bootloader
@@ -40,7 +41,8 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 [2025-02-23] Rev 1.1 Topic 3-2: Link and image Bootloader intel hex file format.  
 [2025-02-23] Rev 1.1 Topic 3-4: fuse_bit write bootSize.  
 [2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.  
-[2025-03-03] Rev 1.2 Topic 3-2: Link and image Intel Hex format.png
+[2025-03-03] Rev 1.2 Topic 3-2: Link and image Intel Hex format.png  
+[Back to List](#-list-of-tutorial)  
 
 ##
 ## Arduino IDE and MCUdude
@@ -48,21 +50,24 @@ A tutorial on How to setup Arduino IDE to work with MCUdude.
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUdude.
   
 [2025-01-30] First release.  
-[2025-03-03] Rev 1.1 Resize images (2), (3), (4), and (8).
+[2025-03-03] Rev 1.1 Resize images (2), (3), (4), and (8).  
+[Back to List](#-list-of-tutorial)  
 
 ##
 ## M128-Learning Board Introduction
 A tutorial Introduction to : the _M128 Learning Board_ created by TooPayz.  
   > Tutorial tentang pengenalan _M128-Learning Board_ dibuat oleh toopayz.
   
-[2025-01-30] First release.
+[2025-01-30] First release.  
+[Back to List](#-list-of-tutorial)  
 
 ##
 ## M128-Learning-Board: LED 8-bit
 A tutorial on the _M128 Learning Board_ : Playing with the 8-bit LED.  
   > Tutorial tentang _M128 Learning Board_ : bermain-main dengan LED 8-bit.
   
-[2025-01-30] First release.
+[2025-01-30] First release.  
+[Back to List](#-list-of-tutorial)  
 
 ##
 ## ✨ To Do Tutorial
