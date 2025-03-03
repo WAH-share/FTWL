@@ -13,11 +13,11 @@ It is completely free, and you can modify the content and share it for personal 
 ##
 ## ✨ List of Tutorial
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
- * JALES Introduction -> [Watch Youtube](https://www.youtube.com/watch?v=bqwzhH1_K6U)
-* [:heavy_check_mark: AVR and MCUdude](#AVR-and-MCUdude) -> [Watch Youtube](https://www.youtube.com/watch?v=02lb0dkuAp8)
-* [:heavy_check_mark: AVR and Bootloader](#AVR-and-Bootloader) -> [Watch Youtube](https://www.youtube.com/watch?v=dih5kE6M6og)
-* [:hourglass: Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
-* [:hourglass: M128-Learning Board](#M128-Learning-Board)
+* :heavy_check_mark: JALES Introduction -> [Watch Youtube](https://www.youtube.com/watch?v=bqwzhH1_K6U)
+* :heavy_check_mark: [AVR and MCUdude](#AVR-and-MCUdude) -> [Watch Youtube](https://www.youtube.com/watch?v=02lb0dkuAp8)
+* :heavy_check_mark: [AVR and Bootloader](#AVR-and-Bootloader) -> [Watch Youtube](https://www.youtube.com/watch?v=dih5kE6M6og)
+* :hourglass: [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
+* :hourglass: [M128-Learning Board](#M128-Learning-Board)
 
 ##
 ## AVR and MCUdude
