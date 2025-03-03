@@ -13,13 +13,17 @@ It is completely free, and you can modify the content and share it for personal 
 ##
 ## ✨ List of Tutorial
 You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH.Learning)
-* [AVR and MCUdude](#AVR-and-MCUdude)
-* [AVR and Bootloader](#AVR-and-Bootloader)
-* [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
-* [M128-Learning Board](#M128-Learning-Board)
+* [:heavy_check_mark:JALES Introduction]
+[!Youtube Video](https://www.youtube.com/watch?v=bqwzhH1_K6U)
+* [:heavy_check_mark:AVR and MCUdude](#AVR-and-MCUdude)
+[!Youtube Video](https://www.youtube.com/watch?v=02lb0dkuAp8)
+* [:heavy_check_mark:AVR and Bootloader](#AVR-and-Bootloader)
+[![Youtube Video](https://www.youtube.com/watch?v=dih5kE6M6og)
+* [:heavy_check_mark:Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
+* [:hourglass:M128-Learning Board](#M128-Learning-Board)
 
 ##
-## AVR and MCUdude :heavy_check_mark:
+## AVR and MCUdude
 A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.  
   > Tutorial yang menjelaskan _MCU AVR, AVRDude, dan MCUdude_ dan hubungan diantaranya.
   
@@ -27,7 +31,7 @@ A tutorial explaining _AVR MCU, AVRDude, and MCUdude_ and their relationship.
 [2025-01-30] Rev 1.0 Add Link MCU Comparison.
 
 ##
-## AVR and Bootloader :heavy_check_mark:
+## AVR and Bootloader
 A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128).  
   > Tutorial tentang pengaturan/konfigurasi fuse-bit and Bootloader untuk mikrokontroller AVR (ATmega128).
   
@@ -38,9 +42,10 @@ A tutorial on How to setup the Bootloader for the AVR microcontroller (ATmega128
 [2025-02-23] Rev 1.1 Topic 3-2: Link and image Bootloader intel hex file format.  
 [2025-02-23] Rev 1.1 Topic 3-4: fuse_bit write bootSize.  
 [2025-02-23] Rev 1.1 Topic 3-5: Add link-info empty buffer.
+[2025-03-03] Rev 1.2 Topic 3-2: Link and image Intel Hex format.png
 
 ##
-## Arduino IDE and MCUdude :heavy_check_mark:
+## Arduino IDE and MCUdude
 A tutorial on How to setup Arduino IDE to work with MCUdude. 
   > Tutorial tentang bagaimana mengatur IDE Arduino digunakan dengan MCUdude.
   

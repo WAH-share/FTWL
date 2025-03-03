@@ -236,6 +236,11 @@
 					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 04E - FuseBoot.png"
 				},
 				{
+					"name": "Intel Hex format.png",
+					"icon": "Img",
+					"location": "....\\\\AVR and Bootloader\\image\\ProgISP 02 - Intel Hex format.png"
+				},
+				{
 					"name": "IPE Intel HEX File Format",
 					"icon": "Web",
 					"location": "https://developerhelp.microchip.com/xwiki/bin/view/software-tools/ipe/sqtp-file-format-specification/intel-hex/"
