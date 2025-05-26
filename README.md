@@ -1,6 +1,6 @@
 # FTWL
 ## ✨ _From Toopayz With Love_:smile::green_heart:
-###### _2025-01-30 17:30 - README.md last update_
+###### _2025-05-26 17:27 - README.md last update_
 Hi Everyone..  
 **FTWL** (From Toopayz With Love) refers to folders, files, images, etc., that are linked to and used with the [JALES Software GUI.](https://github.com/WAH-share/JALES-apps)  
 Basically, this is a package of folders prepared and shared by TooPayz for learning purposes.  
@@ -16,9 +16,10 @@ You can check on this youtube link : [WAH-Learning](https://www.youtube.com/@WAH
 * :heavy_check_mark: JALES Introduction -> [Watch Youtube](https://www.youtube.com/watch?v=bqwzhH1_K6U)
 * :heavy_check_mark: [AVR and MCUdude](#AVR-and-MCUdude) -> [Watch Youtube](https://www.youtube.com/watch?v=02lb0dkuAp8)
 * :heavy_check_mark: [AVR and Bootloader](#AVR-and-Bootloader) -> [Watch Youtube](https://www.youtube.com/watch?v=dih5kE6M6og)
-* :heavy_check_mark: [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude)
+* :heavy_check_mark: [Arduino IDE and MCUdude](#Arduino-IDE-and-MCUdude) -> [Watch Youtube](https://www.youtube.com/watch?v=U2Ygq2aJOgI&t)
+* :heavy_check_mark: [What is Arduino](#What-is-Arduino) -> [Watch Youtube](https://www.youtube.com/watch?v=pVQQq0H6u0w)
 * :hourglass: [M128-Learning Board Introduction](#M128-Learning-Board-Introduction)
-* :hourglass: [M128-LB: LED 8-bit](#m128-learning-board-led-8-bit)
+* :hourglass: [M128-LB: LED 8-bit](#m128-Learning-Board-LED-8-bit)
 
 ##
 ## AVR and MCUdude
@@ -51,6 +52,14 @@ A tutorial on How to setup Arduino IDE to work with MCUdude.
   
 [2025-01-30] First release.  
 [2025-03-03] Rev 1.1 Resize images (2), (3), (4), and (8).  
+[Back to List](#-list-of-tutorial)  
+
+##
+## What is Arduino
+A tutorial about Arduino and introduction to Arduino platform. 
+  > Tutorial mengenai arduino dan pengenalan tentang arduino platform.
+  
+[2025-05-26] First release.  
 [Back to List](#-list-of-tutorial)  
 
 ##

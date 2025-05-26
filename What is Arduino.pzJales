@@ -1,0 +1,634 @@
+{
+  "Break_Author": "------------------------------------------",
+  "Product_Author": {
+    "SwVersion": "Release v1.00-2505",
+    "Location": "....\\",
+    "BoardName": "What is Arduino",
+    "WebSite": "https://youtu.be/pVQQq0H6u0w",
+    "WebText": "Go-to: Youtube Tutorial",
+    "Author": "by: TooPayZ",
+    "Title": "What is Arduino ???"
+  },
+  "Product_List": {
+    "ImageList": [
+      "What is Arduino (1).png",
+      "What is Arduino (2).png",
+      "What is Arduino (3).png",
+      "What is Arduino (4).png",
+      "What is Arduino (5).png",
+      "What is Arduino (6).png",
+      "What is Arduino (7).png",
+      "What is Arduino (8).png",
+      "What is Arduino (9).png"
+    ],
+    "Image_what_is_arduino_(1)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (1).png",
+      "title": "What is Arduino (1)",
+      "remark": "Do you know what Arduino is ?"
+    },
+    "Image_what_is_arduino_(2)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (2).png",
+      "title": "What is Arduino (2)",
+      "remark": ""
+    },
+    "Image_what_is_arduino_(3)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (3).png",
+      "title": "What is Arduino (3)",
+      "remark": ""
+    },
+    "Image_what_is_arduino_(4)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (4).png",
+      "title": "What is Arduino (4)",
+      "remark": ""
+    },
+    "Image_what_is_arduino_(5)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (5).png",
+      "title": "What is Arduino (5)",
+      "remark": ""
+    },
+    "Image_what_is_arduino_(6)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (6).png",
+      "title": "What is Arduino (6)",
+      "remark": ""
+    },
+    "Image_what_is_arduino_(7)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (7).png",
+      "title": "What is Arduino (7)",
+      "remark": ""
+    },
+    "Image_what_is_arduino_(8)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (8).png",
+      "title": "What is Arduino (8)",
+      "remark": ""
+    },
+    "Image_what_is_arduino_(9)": {
+      "separator": "------------------------------------------",
+      "location": "....\\\\What is Arduino",
+      "zoom": false,
+      "name": "What is Arduino (9).png",
+      "title": "What is Arduino (9)",
+      "remark": "Let's TRY !!!!"
+    }
+  },
+  "Image_what_is_arduino_(2)": {
+    "Break_List": "------------------------------------------",
+    "List_what_is_arduino_(2)": [
+      "What",
+      "Hardware",
+      "Software",
+      "Retired_Hw",
+      "Official_Sw"
+    ],
+    "what_is_arduino_(2)_What": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 70,
+      "posY": 125,
+      "width": 354,
+      "height": 42,
+      "name": "What",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "What is Arduino ?",
+          "icon": "Web",
+          "location": "https://www.arduino.cc/en/Guide/Introduction/"
+        },
+        {
+          "name": "About Arduino",
+          "icon": "Web",
+          "location": "https://www.arduino.cc/en/about/"
+        },
+        {
+          "name": "About IDII",
+          "icon": "Web",
+          "location": "https://interactiondesigninstituteivrea.org/"
+        }
+      ]
+    },
+    "what_is_arduino_(2)_Hardware": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 497,
+      "posY": 123,
+      "width": 285,
+      "height": 42,
+      "name": "Hardware",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Arduino Hardware",
+          "icon": "Web",
+          "location": "https://www.arduino.cc/en/hardware/"
+        }
+      ]
+    },
+    "what_is_arduino_(2)_Software": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 507,
+      "posY": 259,
+      "width": 283,
+      "height": 42,
+      "name": "Software",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Arduino Software",
+          "icon": "Web",
+          "location": "https://www.arduino.cc/en/software/"
+        }
+      ]
+    },
+    "what_is_arduino_(2)_Retired_Hw": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 800,
+      "posY": 142,
+      "width": 316,
+      "height": 38,
+      "name": "Retired_Hw",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Retired Hardware",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/retired/"
+        }
+      ]
+    },
+    "what_is_arduino_(2)_Official_Sw": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 792,
+      "posY": 189,
+      "width": 371,
+      "height": 157,
+      "name": "Official_Sw",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Web Editor",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/learn/starting-guide/the-arduino-web-editor/"
+        },
+        {
+          "name": "Micropython",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/micropython/"
+        },
+        {
+          "name": "PLC IDE",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/software/plc-ide/"
+        },
+        {
+          "name": "Arduino CLI",
+          "icon": "Yt",
+          "location": "https://www.youtube.com/watch?v=J-qGn1eEidA&list=PLmBZnJRmQsh6uS1VmeGfJKScRr8afPRW2"
+        },
+        {
+          "name": "Comparison Table",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Sw IDE (1).png"
+        },
+        {
+          "name": "PLC IDE Sequence",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Sw IDE (2).png"
+        },
+        {
+          "name": "Arduino Software Diagram Block",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Sw IDE (3).png"
+        }
+      ]
+    }
+  },
+  "Image_what_is_arduino_(3)": {
+    "Break_List": "------------------------------------------",
+    "List_what_is_arduino_(3)": [
+      "Hardware",
+      "Free_Sw",
+      "Limited_Sw"
+    ],
+    "what_is_arduino_(3)_Hardware": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 19,
+      "posY": 343,
+      "width": 197,
+      "height": 124,
+      "name": "Hardware",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Arduino Adafruit",
+          "icon": "Web",
+          "location": "https://www.adafruit.com/category/17"
+        },
+        {
+          "name": "Arduino Sparkfun",
+          "icon": "Web",
+          "location": "https://www.sparkfun.com/development-boards/microcontrollers/arduino.html"
+        },
+        {
+          "name": "Arduino Seeeduino",
+          "icon": "Web",
+          "location": "https://wiki.seeedstudio.com/Getting_Started_with_Seeeduino/"
+        },
+        {
+          "name": "MCUdude Megacore MCU",
+          "icon": "Web",
+          "location": "https://github.com/MCUdude/MegaCore?tab=readme-ov-file#pinout"
+        },
+        {
+          "name": "MCUdude Minicore MCU",
+          "icon": "Web",
+          "location": "https://github.com/MCUdude/MiniCore?tab=readme-ov-file#pinout"
+        },
+        {
+          "name": "ATmega2560 Pin Mapping",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/retired/hacking/hardware/PinMapping2560/"
+        }
+      ]
+    },
+    "what_is_arduino_(3)_Free_Sw": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 446,
+      "posY": 306,
+      "width": 326,
+      "height": 160,
+      "name": "Free_Sw",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "PlatformIO IDE",
+          "icon": "Web",
+          "location": "https://platformio.org/platformio-ide"
+        },
+        {
+          "name": "Codebender Online IDE",
+          "icon": "Web",
+          "location": "https://codebender.cc/"
+        },
+        {
+          "name": "Edublocks",
+          "icon": "Web",
+          "location": "https://edublocks.org/"
+        },
+        {
+          "name": "BlocklyDuino",
+          "icon": "Web",
+          "location": "https://blocklyduino.github.io/BlocklyDuino-v2/"
+        },
+        {
+          "name": "Scratch for Arduino",
+          "icon": "Web",
+          "location": "https://s4a.cat/"
+        }
+      ]
+    },
+    "what_is_arduino_(3)_Limited_Sw": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 446,
+      "posY": 469,
+      "width": 326,
+      "height": 103,
+      "name": "Limited_Sw",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "PROGRAMINO IDE",
+          "icon": "Web",
+          "location": "https://www.programino.com/"
+        },
+        {
+          "name": "Arduino IDE for Visual Studio",
+          "icon": "Web",
+          "location": "https://www.visualmicro.com/"
+        }
+      ]
+    }
+  },
+  "Image_what_is_arduino_(4)": {
+    "Break_List": "------------------------------------------",
+    "List_what_is_arduino_(4)": [
+      "Menu",
+      "SerialFeature",
+      "MonitorAndOutput",
+      "Sketch",
+      "TabOption",
+      "Toolbar",
+      "Left Panel"
+    ],
+    "what_is_arduino_(4)_Menu": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 1,
+      "posY": 21,
+      "width": 195,
+      "height": 37,
+      "name": "Menu",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Menu and ShortCut",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Menu (1).png"
+        },
+        {
+          "name": "Shortcut List",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Menu (2).png"
+        }
+      ]
+    },
+    "what_is_arduino_(4)_SerialFeature": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 895,
+      "posY": 48,
+      "width": 85,
+      "height": 50,
+      "name": "SerialFeature",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "SerialRxTx.ino",
+          "icon": "Ino",
+          "location": "....\\\\What is Arduino\\examples\\SerialRxTx\\SerialRxTx.ino"
+        },
+        {
+          "name": "Serial Sending",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Serial (1).png"
+        },
+        {
+          "name": "SinusPlotter.ino",
+          "icon": "Ino",
+          "location": "....\\\\What is Arduino\\examples\\SinusPlotter\\SinusPlotter.ino"
+        },
+        {
+          "name": "Serial Sinus Plotter",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Serial (2).png"
+        },
+        {
+          "name": "Using Serial Monitor",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor/"
+        },
+        {
+          "name": "Using Serial Plotter",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-plotter/"
+        }
+      ]
+    },
+    "what_is_arduino_(4)_MonitorAndOutput": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 271,
+      "posY": 388,
+      "width": 600,
+      "height": 158,
+      "name": "MonitorAndOutput",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Monitor, Status, and CMD",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\BottomPanel.png"
+        }
+      ]
+    },
+    "what_is_arduino_(4)_Sketch": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 285,
+      "posY": 122,
+      "width": 437,
+      "height": 207,
+      "name": "Sketch",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Setup Programming Mode",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\IDE (1).png"
+        },
+        {
+          "name": "Dark Mode",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\IDE (2).png"
+        },
+        {
+          "name": "Light Mode",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\IDE (3).png"
+        },
+        {
+          "name": "Dark High Contrast",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\IDE (4).png"
+        },
+        {
+          "name": "Light High Contrast",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\IDE (5).png"
+        }
+      ]
+    },
+    "what_is_arduino_(4)_TabOption": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 920,
+      "posY": 99,
+      "width": 60,
+      "height": 29,
+      "name": "TabOption",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Arduino Multiple Tab",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\MultiTab (1).png"
+        },
+        {
+          "name": "MultipleTab.ino",
+          "icon": "Ino",
+          "location": "....\\\\What is Arduino\\examples\\MultipleTab\\MultipleTab.ino"
+        }
+      ]
+    },
+    "what_is_arduino_(4)_Toolbar": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 1,
+      "posY": 59,
+      "width": 365,
+      "height": 40,
+      "name": "Toolbar",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Toolbard",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Toolbar (1).png"
+        }
+      ]
+    },
+    "what_is_arduino_(4)_Left Panel": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 1,
+      "posY": 101,
+      "width": 268,
+      "height": 312,
+      "name": "Left Panel",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Sketch Book",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\LeftPanel (1).png"
+        },
+        {
+          "name": "Arduino Cloud",
+          "icon": "Web",
+          "location": "https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-cloud-sketch-sync/"
+        },
+        {
+          "name": "Board Manager",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\LeftPanel (2).png"
+        },
+        {
+          "name": "Library Manager",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\LeftPanel (3).png"
+        },
+        {
+          "name": "Debug",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\LeftPanel (4).png"
+        },
+        {
+          "name": "Search",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\LeftPanel (5).png"
+        }
+      ]
+    }
+  },
+  "Image_what_is_arduino_(5)": {
+    "Break_List": "------------------------------------------",
+    "List_what_is_arduino_(5)": [
+      "ArduinoUno",
+      "ArduinoNano",
+      "USBISP"
+    ],
+    "what_is_arduino_(5)_ArduinoUno": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 863,
+      "posY": 0,
+      "width": 138,
+      "height": 76,
+      "name": "ArduinoUno",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Hw (1).png",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Hw (1).png"
+        }
+      ]
+    },
+    "what_is_arduino_(5)_ArduinoNano": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 1079,
+      "posY": 243,
+      "width": 132,
+      "height": 82,
+      "name": "ArduinoNano",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Hw (2).png",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Hw (2).png"
+        }
+      ]
+    },
+    "what_is_arduino_(5)_USBISP": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 1025,
+      "posY": 394,
+      "width": 128,
+      "height": 55,
+      "name": "USBISP",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Hw (3).png",
+          "icon": "Img",
+          "location": "....\\\\What is Arduino\\image\\Hw (3).png"
+        }
+      ]
+    }
+  },
+  "Image_what_is_arduino_(6)": {
+    "Break_List": "------------------------------------------",
+    "List_what_is_arduino_(6)": [
+      "LED Blink"
+    ],
+    "what_is_arduino_(6)_LED Blink": {
+      "separator": "------------------------------------------",
+      "type": "rectangle",
+      "posX": 423,
+      "posY": 75,
+      "width": 153,
+      "height": 47,
+      "name": "LED Blink",
+      "remark": "",
+      "linkInfo": [
+        {
+          "name": "Blink.ino",
+          "icon": "Ino",
+          "location": "....\\\\What is Arduino\\examples\\Blink\\Blink.ino"
+        }
+      ]
+    }
+  }
+}
