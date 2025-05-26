@@ -2,7 +2,7 @@
 ## ✨ _From Toopayz With Love_:smile::green_heart:
 ###### _2025-05-26 17:27 - README.md last update_
 Hi Everyone..  
-**FTWL** (From Toopayz With Love) refers to folders, files, images, etc., that are linked to and used with the [JALES Software GUI.](https://github.com/WAH-share/JALES-apps)  
+**FTWL** (From Toopayz With Love) refers to folders, files, images, etc., that are linked to and used with the [JALES Software GUI.](https://github.com/WAH-share/JALES-apps/releases)  
 Basically, this is a package of folders prepared and shared by TooPayz for learning purposes.  
 It is completely free, and you can modify the content and share it for personal or commercial use.
 > Hai semuanya...  
